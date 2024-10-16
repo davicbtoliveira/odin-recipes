@@ -14,5 +14,5 @@
     In the file index.html, I used a lot of anchor tag (<a>) to link the homepage with the recipes page;
 - Lists:
     All the recipes has a minimum 2 types of lists each, being them:
-        ordened lists (<ol>);
-        unordened lists (<ul>);
+        ordened lists (`<ol>`);
+        unordened lists (`<ul>`);
