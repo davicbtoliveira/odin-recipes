@@ -2,7 +2,7 @@
 
 ## What's the project about?
 - It's some recipes that I like (5 of them);
-- The project was made 100% in pure HTML;
+- The project was made 100% in HTML;
 
 ## Some things from the project that were used in this "Recipe Book"
 - Heading elements:
