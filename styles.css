@@ -1,13 +1,19 @@
 body {
     font-family: 'Verdana', 'sans-serif';
-    background-color: rgb(147, 151, 163);
+    background-color: rgba(49, 49, 49, 0.575);
     color: aliceblue;
 }
 
 a {
-    font-weight: 400;
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 600;
 }
 
 li {
     color: aliceblue;
+}
+
+img {
+    margin-bottom: 15px;
 }
