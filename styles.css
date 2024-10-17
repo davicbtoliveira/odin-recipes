@@ -1,0 +1,13 @@
+body {
+    font-family: 'Verdana', 'sans-serif';
+    background-color: rgb(147, 151, 163);
+    color: aliceblue;
+}
+
+a {
+    font-weight: 400;
+}
+
+li {
+    color: aliceblue;
+}
